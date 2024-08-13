@@ -2,7 +2,7 @@ package com.jsp.Flight_Ticket_Booking_Project.dto;
 
 public class User 
 {
-    private int delshad;
+    private int javed;
     private int id;
     private String name;
     private String email;
