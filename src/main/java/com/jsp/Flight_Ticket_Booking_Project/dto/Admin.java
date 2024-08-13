@@ -2,6 +2,7 @@ package com.jsp.Flight_Ticket_Booking_Project.dto;
 
 public class Admin 
 {	
+   private String admin_name;	
    private int id;
    private String email;
    private String password;
