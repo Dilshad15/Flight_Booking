@@ -1,8 +1,7 @@
 package com.jsp.Flight_Ticket_Booking_Project.dto;
 
 public class Admin 
-{
-   int meraj;	
+{	
    private int id;
    private String email;
    private String password;
