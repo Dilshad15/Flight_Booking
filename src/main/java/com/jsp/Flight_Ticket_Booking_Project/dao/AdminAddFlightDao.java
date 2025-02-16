@@ -185,4 +185,5 @@ public class AdminAddFlightDao
 		}
     	 return addFlights2;
      }
+	public void gitConflictsDemo() {}
 }
